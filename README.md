@@ -1,6 +1,8 @@
 # Network_Phrasebank
 A community-driven **learning project** for experimenting with Python networking, encryption, and open-source collaboration. This project is designed to help contributors **gain hands-on experience**, explore new skills, and build confidence in open-source contributions—all while having fun!
 
+### Network_Phrasebank is a network level program that runs on your localhost. It is client-server architecture, where the server stores encrypted messages submitted by the clients, like a secret diary. If the client has the matching private key to the public key used to encrypt the message, then they can decrypt the message. 
+
 - **No Complex Setup Required**    
 - **This project runs entirely on localhost (your own computer) within your home network. As long as you have a computer and internet, you can run the code without needing virtual machines, cloud services, or advanced configurations.**
 
